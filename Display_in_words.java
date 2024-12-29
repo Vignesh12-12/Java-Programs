@@ -1,4 +1,4 @@
-// 2. Read a single digit number as input and display it in words using switch case statements.
+// Read a single digit number as input and display it in words using switch case statements.
 
 // Program:
 
