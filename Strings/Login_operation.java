@@ -2,7 +2,7 @@
 // Expected username is Hello and password is java.
 
 // program:
-package topic0;
+
 import java.util.Scanner;
 public class String6 {
 	public static void main(String[] args) {
