@@ -1,4 +1,4 @@
-// 4. Create a class named Employee with public variables ID, name,
+// Create a class named Employee with public variables ID, name,
 // department and salary. Write separate methods to assign the values and to
 // print the values.
 // Program:
